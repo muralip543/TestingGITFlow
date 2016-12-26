@@ -5,7 +5,7 @@
 	<version>0.0.1</version>
 
 	<scm>
-		<connection>scm:git:git@https://github.com/muralip543/TestingGITFlow.git</connection>
+		<connection>scm:git:git@https://github.com/muralip543/TestingGITFlow</connection>
 	  <tag>0.0.1</tag>
   </scm>
 
